@@ -1,14 +1,5 @@
 {
-  "Aqua2478248-4319441": {
-    "cfx_key": "cfxk_Jqnh1LlJZqq0xL1K9SnC_4IAagX",
-    "ip_address": "194.107.126.99",
-    "blacklisted": true,
-    "reason": "Nicht bezahlt"
-  },
-  "BÖSERKEY456": {
-    "cfx_key": "cfxk_abcdef1234567890",
-    "ip_address": "111.22.33.44",
-    "blacklisted": true,
-    "reason": "Nicht bezahlt"
+  "Aqua2478248-4319440": {
+    "blacklisted": false
   }
 }
